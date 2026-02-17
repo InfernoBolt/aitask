@@ -12,4 +12,4 @@ This project uses a Deep Learning model (2D CNN) to classify human speech into 8
    python predict.py --file "path/to/audio.wav"
 
 ## Results
-* **Accuracy:** 45% 
+* **Accuracy:** 55% 
